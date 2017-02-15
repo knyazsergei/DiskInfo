@@ -1,0 +1,8 @@
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplicationDiskInfo.exe.config
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplicationDiskInfo.exe
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplicationDiskInfo.pdb
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplicationDiskInfo.Properties.Resources.resources
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplicationDiskInfo.exe
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplicationDiskInfo.pdb

@@ -1,0 +1,9 @@
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplicationDiskInfo.exe.config
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplicationDiskInfo.exe
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplicationDiskInfo.pdb
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplicationDiskInfo.Properties.Resources.resources
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplicationDiskInfo.exe
+G:\projects\todelete\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplicationDiskInfo.pdb
